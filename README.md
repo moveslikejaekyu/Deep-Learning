@@ -14,7 +14,7 @@ So i decided to laern and develope these things :
 ###
 Here is the certificate that i completed the courses what i took for studying machine learning & deep learning. This courses are consist of lecture and assignments with python.
 
-* 1.- [Coursera WUG9RHL5X8K3](Coursera WUG9RHL5X8K3.pdf)
+* 1.- [Neural Networks and Deep Learning](Neural Networks and Deep Learning.pdf)
 
 
 
