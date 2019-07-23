@@ -1,10 +1,10 @@
 # Deep-Learning
 
 Now i'm in Summer vacation, so i decided to spend this period for studying my major deeper!
-So i decided to laern and develope these things :
+So i decided to learn and develope these things :
 
  1) Advanced skills for Python for Data science</br>
-  Until summer vacation, i used to use R for analysing data & programming. It's a kinda basic tool for Data scinece. But if you want to    analyse more bigger data and handle it more widely, you have to use Python! 
+  Until summer vacation, i used to use R for analysing data & programming. It's a kinda basic tool for Data scinece. But if you want to    analyse much bigger data and handle it more widely, you have to use Python! 
   In my case, i learned basic Python skills 2 years ago, and use it when i do machine learning project in THUAS. But my skiils are not perfect so im gonna study it with coursera and guide books which i already had. 
 
  2) Studying Machine learning & Deep learning</br>
