@@ -18,7 +18,11 @@ Here is the certificate that i completed the courses what i took for studying ma
 
 * 2.- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Coursera_Improving_Deep_Neural_Networks.pdf) - 19.7.30.
 
-* 3.- 
+* 3.- [Structuring_Machine_Learning_Projects](Coursera_Structuring_Machine_Learning_Projects.pdf)
+
+* 4.- 
+
+* 5.- 
 
 
 
