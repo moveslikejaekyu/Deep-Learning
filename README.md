@@ -14,11 +14,11 @@ So i decided to learn and develope these things :
 ###
 Here is the certificate that i completed the courses what i took for studying machine learning & deep learning. This courses are consist of lecture and assignments with python.</br>
 
-* 1.- [Neural Networks and Deep Learning](Neural_Networks_and_Deep_Learning.pdf) - 19.7.22.
+* 1.- [Neural Networks and Deep Learning](Neural_Networks_and_Deep_Learning.pdf) - 19. 7. 22.
 
-* 2.- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Coursera_Improving_Deep_Neural_Networks.pdf) - 19.7.30.
+* 2.- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Coursera_Improving_Deep_Neural_Networks.pdf) - 19. 7. 30.
 
-* 3.- [Structuring_Machine_Learning_Projects](Coursera_Structuring_Machine_Learning_Projects.pdf)
+* 3.- [Structuring_Machine_Learning_Projects](Coursera_Structuring_Machine_Learning_Projects.pdf) - 19. 8. 2
 
 * 4.- 
 
