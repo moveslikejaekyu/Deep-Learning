@@ -20,9 +20,9 @@ Here is the certificate that i completed the courses what i took for studying ma
 
 * 3.- [Structuring_Machine_Learning_Projects](Coursera_Structuring_Machine_Learning_Projects.pdf) - 19. 8. 2
 
-* 4.- 
+* 4.- [Convolutional Neural Network](Coursera_convolutional_neural_network.pdf) - 19. 8. 14
 
-* 5.- 
+* 5.- [Sequence Model](Coursera_sequence_model.pdf) -19. 8. 
 
 
 
