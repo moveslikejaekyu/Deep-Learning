@@ -22,7 +22,14 @@ Here is the certificate that i completed the courses what i took for studying ma
 
 * 4.- [Convolutional Neural Network](Coursera_convolutional_neural_network.pdf) - 19. 8. 14
 
-* 5.- [Sequence Model](Coursera_sequence_model.pdf) -19. 8. 
+* 5.- [Sequence Model](Coursera_sequence_model.pdf) -19. 8. 16
+
+![Deep learning](Coursera_deep_learning.pdf)
+
+Finally!! i completed all the courses & tasks! 
+But i have to review what i learned in these courses, because it was difficult to understand perfectly since i learned CNN.
+So now! im gonna review CNN part first and python codes of sequence model course second. 
+There are the most difficult parts of what i learned in this deep learning course.
 
 
 
