@@ -24,7 +24,7 @@ Here is the certificate that i completed the courses what i took for studying ma
 
 * 5.- [Sequence Model](Coursera_sequence_model.pdf) -19. 8. 16
 
-![Deep learning](Coursera_deep_learning.pdf)
+![Deep learning](certificate_deep_learning.png)
 
 Finally!! i completed all the courses & tasks! 
 But i have to review what i learned in these courses, because it was difficult to understand perfectly since i learned CNN.
